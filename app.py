@@ -5,7 +5,7 @@ from magic_tool import converter
 
 """ GUI for .csv to Markdown converter
 
-    Created by Gianluca Traversa (RME Intern), Joe Rush and Jessica Lucas © 2021.
+    Created by Gianluca Traversa (RME Intern) © 2021.
     https://github.com/gtraversa/AmazonRME
     gianlu.traversa@gmail.com
     

@@ -11,7 +11,7 @@ def make_window():
             sg.Button(button_text = 'Convert', enable_events=True, key = '-CONVERT FILE-')
         ],
         [
-            sg.Text('Created by Gianluca Traversa (RME Intern), Joe Rush and Jessica Lucas © 2021.',
+            sg.Text('Created by Gianluca Traversa (RME Intern) © 2021.',
             tooltip='Source Code',
             enable_events = True,
             font = ('Helvetica',7),
