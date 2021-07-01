@@ -5,7 +5,7 @@ def converter(path):
             csv_reader = csv.reader(csv_file, delimiter=',')
             line_count = 0
             s = '|'
-            path = path.replace(path.split('/')[-1],'')+'converted.txt'
+            path = path.replace('.csv','')+'_converted.txt'
             print(path)
             with open(path , 'a') as conv:
                 for row in csv_reader:
