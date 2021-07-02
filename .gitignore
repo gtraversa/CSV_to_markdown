@@ -4,3 +4,4 @@
 *.pyc
 *.spec
 build
+*_converted.txt
